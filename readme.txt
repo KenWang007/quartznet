@@ -29,7 +29,7 @@ Also, to keep the legal people happy:
 The version 3.0 is a work in progress and things might still change a bit.
 
 
-3. RELEASE INFO
+3. RELEASE INFO test
 ----------------
 
 For API documentation, please refer to Quartz.NET site: 
